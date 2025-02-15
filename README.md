@@ -1,1 +1,1 @@
-# cv_basics
+# CV BASICS COURSE MATERIALS
